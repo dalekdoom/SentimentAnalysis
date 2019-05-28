@@ -1,4 +1,13 @@
+View report: https://dalekdoom.github.io/SentimentAnalysis/NLP.pdf
 
+We want to conduct sentiment classification of tweets to airlines to determine
+whether they are positive (reviews), negative (complaints), or neutral
+(statements). This problem is interesting from a business perspective because it is useful to
+know which airline has better reviews. Using natural language processing allows
+businesses to analyze public opinion through tweets without having to conduct
+formal surveys. They can then use this information to drive business decisions
+because they will have an insight into what customers think of them and into what
+customers think of their competition.
 
 ```python
 import numpy as np
