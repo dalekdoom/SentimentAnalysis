@@ -9,17 +9,6 @@ formal surveys. They can then use this information to drive business decisions
 because they will have an insight into what customers think of them and into what
 customers think of their competition.
 
-```python
-The dataset used contains tweets from February 16th to February 24th 2015. The tweets were directed at six
-major airlines in the United States. The tweets are classified as either positive,
-negative, or neutral. The dataset is called “Airline Twitter sentiment” and is taken
-from Figure Eight Inc. \cite{dataset}. 
-According to the source, “Twitter data was scraped from February of 2015
-and contributors were asked to first classify positive, negative, and neutral
-tweets, followed by categorizing negative reasons (such as “late flight” or “rude
-service”)”. However, we cannot apply this approach because we do not have the means to survey
-contributors and ask them to classify the sentiment of 14640 tweets.
-```
 
 ```python
 import numpy as np
