@@ -225,28 +225,5 @@ f1_score(testTarget, a, average='weighted')
     0.5308792269655074
 
 
-
-
-```python
-
 ```
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
