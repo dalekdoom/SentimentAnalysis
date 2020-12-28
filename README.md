@@ -1,4 +1,4 @@
-View report: https://dalekdoom.github.io/SentimentAnalysis/NLP.pdf
+View report: https://rhysits.github.io/SentimentAnalysis/NLP.pdf
 
 We want to conduct sentiment classification of tweets to airlines to determine
 whether they are positive (reviews), negative (complaints), or neutral
